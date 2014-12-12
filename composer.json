@@ -8,9 +8,9 @@
         "email": "hatfieldje@gmail.com"
     }],
     "autoload": {
-      "psr4": {
-        "Firebase\\": "lib"
-      }
+      "classmap": [
+        "lib"
+      ]
     },
     "license": "MIT",
     "require": {
