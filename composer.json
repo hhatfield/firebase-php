@@ -1,12 +1,11 @@
 {
-    "name": "ktamas77/firebase-php",
+    "name": "hhatfield/firebase-php",
     "description": "Firebase PHP Client",
-    "homepage": "https://github.com/ktamas77/firebase-php",
     "keywords": ["firebase", "REST", "wrapper"],
     "version": "1.0.0",
     "authors": [{
-        "name": "Tamas Kalman",
-        "email": "ktamas77@gmail.com"
+        "name": "H Hatfield",
+        "email": "hatfieldje@gmail.com"
     }],
     "license": "MIT",
     "require": {
