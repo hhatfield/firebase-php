@@ -1,6 +1,5 @@
 <?php
-
-require_once dirname(__FILE__).DIRECTORY_SEPARATOR.'lib'.DIRECTORY_SEPARATOR.'firebaseInterface.php';
+namespace Firebase;
 
 /**
  * Firebase PHP Client Library
@@ -18,7 +17,7 @@ require_once dirname(__FILE__).DIRECTORY_SEPARATOR.'lib'.DIRECTORY_SEPARATOR.'fi
  * @link   https://www.firebase.com/docs/rest-api.html
  *
  */
-class Firebase implements FirebaseInterface
+class Lib implements FirebaseInterface
 {
     private $_baseURI;
     private $_timeout;

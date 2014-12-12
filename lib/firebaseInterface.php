@@ -1,4 +1,5 @@
 <?php
+namespace Firebase;
 /**
  * Interface for PHP Firebase functions.
  **/

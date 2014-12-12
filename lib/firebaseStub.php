@@ -1,4 +1,5 @@
 <?php
+namespace Firebase;
 /**
  * Stubs the Firebase interface without issuing any cURL requests.
  **/
